@@ -1,0 +1,26 @@
+_repo: Boy-Scouts-of-the-Air-on-Lost-Island_6827
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stuart, Gordon (Adventure story writer)
+    gutenberg_agent_id: '2211'
+    url: http://www.gutenberg.org/2009/agents/2211
+description: ''
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2004-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6827'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Boy Scouts -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcc 'PS'
+- !lcsh 'Thieves -- Juvenile fiction'
+- !lcsh 'Airplanes -- Juvenile fiction'
+- GITenberg
+title: Boy Scouts of the Air on Lost Island
+url: http://www.gutenberg.org/ebooks/6827
