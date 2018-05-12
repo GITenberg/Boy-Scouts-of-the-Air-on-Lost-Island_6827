@@ -1,11 +1,16 @@
 _repo: Boy-Scouts-of-the-Air-on-Lost-Island_6827
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Stuart, Gordon (Adventure story writer)
     gutenberg_agent_id: '2211'
     url: http://www.gutenberg.org/2009/agents/2211
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6827#Boy-Scouts-of-the-Air-on-Lost-Island
 gutenberg_bookshelf: Children's Book Series
 gutenberg_issued: '2004-11-01'
 gutenberg_type: Text
